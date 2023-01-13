@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = viktor.zold@gmail.com
+	name = viktor zold
